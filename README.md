@@ -6,7 +6,7 @@
 
     创建一个目录放置配置
     mkdir config
-    下载配置文件： https://github.com/jtyoui/universal-fabric-sdk/releases/download/v1/connection-org.yaml
+    下载配置文件： https://github.com/jtyoui/universal-fabric-sdk/releases/download/v1.1/connection-org.yaml
     然后将下载的文件复制到目录 cp connection-org.yaml ./config
 
 ## 使用方法
