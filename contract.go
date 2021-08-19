@@ -1,4 +1,4 @@
-package main
+package sdk
 
 import (
 	"github.com/hyperledger/fabric-sdk-go/pkg/core/config"
